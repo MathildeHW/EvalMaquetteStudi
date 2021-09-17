@@ -1,0 +1,13 @@
+USER STORY
+
+Titre de l'US: Historique de chaque copié/collé
+
+En tant que Yoko,
+je souhaite pouvoir chaque extrait que j'aurais copié/collé,
+afin de stocker et organiser facilement mon travail.
+
+Règles métier:
+
+1. Sauvegarde auto à chaque copié/collé
+2. Recherche facile des extraits (par catégorie, contenu, URL etc.)
+3. Accès à Clipboard n'importe où.
